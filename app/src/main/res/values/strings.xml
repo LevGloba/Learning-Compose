@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">TestAppOnCompose</string>
+    <string name="happy_birthday_mum">Happy Birthday Mum</string>
+    <string name="from_lev">From Lev</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <!--THEME 1-->
+        <!--Task 1-->
+        <string name="theme_one_task_one_title">Jetpack Compose tutorial</string>
+        <string name="theme_one_task_one_text_one">Jetpack Compose is a modern toolkit for building native Android UI. Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.</string>
+        <string name="theme_one_task_one_text_two">In this tutorial, you build a simple UI component with declarative functions. You call Compose functions to say what elements you want and the Compose compiler does the rest. Compose is built around Composable functions. These functions let you define your app\'s UI programmatically because they let you describe how it should look and provide data dependencies, rather than focus on the process of the UI\'s construction, such as initializing an element and then attaching it to a parent. To create a Composable function, you add the @Composable annotation to the function name.</string>
+        <!--Task 2-->
+        <string name="thme_one_task_two_title">All tasks completed</string>
+        <string name="thme_one_task_two_description">Nice work!</string>
+        <!--Task 3-->
+        <string name="theme_one_task_three_title_squer_top_start">Text composable</string>
+        <string name="theme_one_task_three_description_squer_top_start">Displays text and follows the recommended Material Design guidelines.</string>
+        <string name="theme_one_task_three_title_squer_bottom_start">Image composable</string>
+        <string name="theme_one_task_three_description_squer_bottom_start">Creates a composable that lays out and draws a given Painter class object.</string>
+        <string name="theme_one_task_three_title_squer_top_end">Row composable</string>
+        <string name="theme_one_task_three_description_squer_top_end">A layout composable that places its children in a horizontal sequence.</string>
+        <string name="theme_one_task_three_title_squer_bottom_end">Column composable</string>
+        <string name="theme_one_task_three_description_squer_bottom_end">A layout composable that places its children in a vertical sequence.</string>
+        <!--Task 4-->
+        <string name="lev_globa">Lev Globa</string>
+        <string name="android_developer_time_capsule">Android Developer Time Capsule</string>
+        <string name="_7_356_92_12_345">+7 (356)–92–12-345</string>
+        <string name="timecapsule">\@TimeCapsule</string>
+        <string name="globolev_mail_ru">gloBoLev@mail.ru</string>
+    <!--THEME 2-->
+        <!--Task 1-->
+        <string name="roll">Roll</string>
+        <!--Task 2-->
+        <string name="tree">Tap the lemon tree to select a lemon</string>
+        <string name="lemon">Keep tapping the lemon to squeeze it</string>
+        <string name="drink_lemon">Tap the lemonade to drink it</string>
+        <string name="restart_lemon_app">Tap the empty glass to start again</string>
+    <!--THEME 3-->
+     <!--Task 1-->
+        <string name="calculate_tip">Calculate Tip</string>
+        <string name="bill_amount">Bill Amount</string>
+        <string name="tip_amount">Tip Amount: %s</string>
+        <string name="how_was_the_service">Tip Percentage</string>
+        <string name="round_up_tip">Round up tip?</string>
+    <!--Task 2-->
+        <string name="name_image_android_logo">Android Logo</string>
+        <string name="creater_image_android_logo">Google</string>
+        <string name="create_data_android">2009</string>
+        <string name="name_image_compose_back">Jetpack Compose</string>
+        <string name="creater_image_compose_back">JetBrains and Google</string>
+        <string name="create_data_compose">2018</string>
+        <string name="name_image_android_party">Android Party</string>
+        <string name="creater_image_android_party">Google</string>
+        <string name="create_data_android_perty">2021</string>
+        <string name="name_image_task_completed">Task Completed</string>
+        <string name="creater_image_task_completed">Google</string>
+        <string name="create_data_task_completed">2022</string>
+        <string name="preview">Preview</string>
+        <string name="next">Next</string>
+</resources>
